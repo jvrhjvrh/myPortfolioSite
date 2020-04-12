@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  data-testid="custom-element"
+>
+  <div
+    class="app"
+    data-testid="brainfuck-page"
+  >
+    <div
+      class="ant-card ant-card-bordered"
+    >
+      <div
+        class="ant-card-head"
+        style="text-align: center;"
+      >
+        <div
+          class="ant-card-head-wrapper"
+        >
+          <div
+            class="ant-card-head-title"
+          >
+            Code
+          </div>
+        </div>
+      </div>
+      <div
+        class="ant-card-body"
+        style="height: 100%;"
+      >
+        <div
+          class="text-container"
+        >
+          <textarea
+            class="ant-input textarea-input"
+            placeholder="Insert brainfuck code here"
+            style="height: 0px; min-height: -40px; max-height: 9007199254740991px; overflow-y: hidden; overflow-x: hidden;"
+          />
+        </div>
+      </div>
+    </div>
+    <button
+      class="ant-btn translate-button ant-btn-primary"
+      type="button"
+    >
+      <span>
+        Translate -&gt;
+      </span>
+    </button>
+    <div
+      class="ant-card ant-card-bordered"
+    >
+      <div
+        class="ant-card-head"
+        style="text-align: center;"
+      >
+        <div
+          class="ant-card-head-wrapper"
+        >
+          <div
+            class="ant-card-head-title"
+          >
+            Translation
+          </div>
+        </div>
+      </div>
+      <div
+        class="ant-card-body"
+        style="height: 100%;"
+      >
+        <div
+          class="text-container"
+        >
+          <textarea
+            class="ant-input textarea-input ant-input-disabled"
+            disabled=""
+            placeholder="Translation here"
+            style="height: 0px; min-height: -40px; max-height: 9007199254740991px; overflow-y: hidden; overflow-x: hidden;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
