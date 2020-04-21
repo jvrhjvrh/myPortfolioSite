@@ -14,15 +14,20 @@ export default () => {
     const [pixelGrid, setPixelGrid] = useState(Array.from(Array(256)).fill(rgba));
     const [isPainting, setIsPainting] = useState(false);
 
-    const handleMouseDown = () => {
-        setIsPainting(true);
+    const changePixelColor = (index) => {
+        const newPixelGrid = JSON.parse(JSON.stringify(pixelGrid));
+        newPixelGrid[index] = rgba;
+        setPixelGrid(newPixelGrid);
     };
 
-    const changePixelColor = (index) => {
+    const handleMouseDown = (index) => {
+        setIsPainting(true);
+        changePixelColor(index);
+    };
+
+    const handleHover = (index) => {
         if (isPainting) {
-            const newPixelGrid = JSON.parse(JSON.stringify(pixelGrid));
-            newPixelGrid[index] = rgba;
-            setPixelGrid(newPixelGrid);
+            changePixelColor(index);
         }
     };
 
@@ -31,7 +36,7 @@ export default () => {
             <Pixel
                 color={`rgba(${pixel.r},${pixel.g},${pixel.b},${pixel.a})`}
                 index={index}
-                onHover={changePixelColor}
+                onHover={handleHover}
                 onMouseDown={handleMouseDown}
             />
         ),
@@ -51,6 +56,8 @@ export default () => {
             data-testid="pixelart-page"
             onMouseUp={handleMouseUp}
             draggable={false}
+            onDragStart={() => false}
+            className="unselectable"
         >
             <div className="pixel-grid">
                 {

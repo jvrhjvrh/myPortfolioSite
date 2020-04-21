@@ -1,11 +1,24 @@
 .pixel-grid {
-display: grid;
-grid-template-columns: repeat(16, 1fr);
-grid-template-rows: repeat(16, 1fr);
-grid-column-gap: 0px;
-height: 50vh;
-width: 50vh;
-grid-row-gap: 0px;
-border-top: 1px solid black;
-border-left: 1px solid black;
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    grid-column-gap: 0px;
+    height: 50vh;
+    width: 50vh;
+    grid-row-gap: 0px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.unselectable {
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+
+   /*
+     Introduced in IE 10.
+     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+   */
+   -ms-user-select: none;
+   user-select: none;
 }

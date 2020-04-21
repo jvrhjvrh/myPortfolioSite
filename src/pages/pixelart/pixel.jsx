@@ -1,6 +1,12 @@
 import React from 'react';
+import propTypes from 'proptypes';
 
-export default ({ color, index, onMouseDown, onHover }) => (
+const Pixel = ({
+    color,
+    index,
+    onMouseDown,
+    onHover,
+}) => (
     <div
         style={{
             backgroundColor: color,
@@ -9,7 +15,22 @@ export default ({ color, index, onMouseDown, onHover }) => (
             borderRight: '1px solid black',
             borderBottom: '1px solid black',
         }}
-        onMouseDown={() => { onMouseDown(); onHover(index); }}
+        onMouseDown={() => onMouseDown(index)}
         onMouseOver={() => onHover(index)}
     />
 );
+
+Pixel.propTypes = {
+    color: propTypes.string,
+    index: propTypes.number.isRequired,
+    onMouseDown: propTypes.func,
+    onHover: propTypes.func,
+};
+
+Pixel.defaultProps = {
+    color: '',
+    onMouseDown: () => {},
+    onHover: () => {},
+};
+
+export default Pixel;
