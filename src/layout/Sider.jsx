@@ -16,8 +16,11 @@ const SiderComponent = ({ children }) => {
 
     const onSelectMenu = ({ key }) => {
         switch (key) {
-            case '1':
+            case '2':
                 history.push('/brainfuck');
+                break;
+            case '3':
+                history.push('/pixelart');
                 break;
             default:
                 history.push('/');
@@ -29,12 +32,15 @@ const SiderComponent = ({ children }) => {
             <Sider collapsed={collapsed} collapsible onCollapse={onCollapse}>
                 <Menu theme="dark" mode="inline" onClick={onSelectMenu}>
                     <Menu.Item key="1">
+                        <span>home.js</span>
+                    </Menu.Item>
+                    <Menu.Item key="2">
                         <ExperimentOutlined />
                         <span>Brainfuck.js</span>
                     </Menu.Item>
-                  <Menu.Item key="2">
-                    <span>home.js</span>
-                  </Menu.Item>
+                    <Menu.Item key="3">
+                        <span>Pixelart.js</span>
+                    </Menu.Item>
                 </Menu>
             </Sider>
             <Layout>

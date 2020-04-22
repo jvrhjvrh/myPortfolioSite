@@ -20,6 +20,15 @@ exports[`render correctly 1`] = `
           role="menu"
         >
           <li
+            class="ant-menu-item ant-menu-item-only-child"
+            role="menuitem"
+            style="padding-left: 24px;"
+          >
+            <span>
+              home.js
+            </span>
+          </li>
+          <li
             class="ant-menu-item"
             role="menuitem"
             style="padding-left: 24px;"
@@ -54,7 +63,7 @@ exports[`render correctly 1`] = `
             style="padding-left: 24px;"
           >
             <span>
-              home.js
+              Pixelart.js
             </span>
           </li>
         </ul>

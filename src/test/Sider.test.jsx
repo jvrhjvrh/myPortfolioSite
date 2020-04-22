@@ -75,3 +75,22 @@ it('changes to brainfuck page and back to home', () => {
 
     component.getByTestId('home-page');
 });
+
+it('changes to pixelart page', () => {
+    const history = createMemoryHistory();
+    const component = render(
+        <Router history={history}>
+            <Sider>
+                <Routes />
+            </Sider>
+        </Router>,
+    );
+
+    component.getByTestId('home-page');
+
+    const button = component.getByText('Pixelart.js');
+
+    fireEvent.click(button);
+
+    component.getByTestId('pixelart-page');
+});
