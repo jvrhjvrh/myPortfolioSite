@@ -51,6 +51,7 @@ export default () => {
     };
 
     return (
+
         <div
             style={{ display: 'flex' }}
             data-testid="pixelart-page"
