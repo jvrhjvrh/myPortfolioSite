@@ -4,7 +4,6 @@ import { createMemoryHistory } from 'history';
 import { render, fireEvent } from '@testing-library/react';
 import Sider from '../layout/Sider';
 import Routes from '../routes/Routes';
-import home from '../pages/home';
 
 const PropChildren = () => (
     <div> teste </div>

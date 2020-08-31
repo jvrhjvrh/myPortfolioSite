@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Layout, Menu } from 'antd';
-import { ExperimentOutlined } from '@ant-design/icons';
+import { ExperimentOutlined, HomeOutlined, AppstoreOutlined } from '@ant-design/icons';
 import propTypes from 'proptypes';
 import { useHistory } from 'react-router-dom';
 
@@ -32,6 +32,7 @@ const SiderComponent = ({ children }) => {
             <Sider collapsed={collapsed} collapsible onCollapse={onCollapse}>
                 <Menu theme="dark" mode="inline" onClick={onSelectMenu}>
                     <Menu.Item key="1">
+                        <HomeOutlined />
                         <span>home.js</span>
                     </Menu.Item>
                     <Menu.Item key="2">
@@ -39,6 +40,7 @@ const SiderComponent = ({ children }) => {
                         <span>Brainfuck.js</span>
                     </Menu.Item>
                     <Menu.Item key="3">
+                        <AppstoreOutlined />
                         <span>Pixelart.js</span>
                     </Menu.Item>
                 </Menu>

@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/no-static-element-interactions */
+/* eslint-disable jsx-a11y/mouse-events-have-key-events */
 import React from 'react';
 import propTypes from 'proptypes';
 
@@ -6,8 +8,10 @@ const Pixel = ({
     index,
     onMouseDown,
     onHover,
+    testid,
 }) => (
     <div
+        data-testid={testid}
         style={{
             backgroundColor: color,
             height: '100%',
@@ -25,12 +29,14 @@ Pixel.propTypes = {
     index: propTypes.number.isRequired,
     onMouseDown: propTypes.func,
     onHover: propTypes.func,
+    testid: propTypes.string,
 };
 
 Pixel.defaultProps = {
     color: '',
     onMouseDown: () => {},
     onHover: () => {},
+    testid: null,
 };
 
 export default Pixel;

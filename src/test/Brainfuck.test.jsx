@@ -13,7 +13,7 @@ it('renders correctly', () => {
 test('should show Hello World!', () => {
     const component = render(<Brainfuck />);
     const input = component.getByPlaceholderText('Insert brainfuck code here');
-    fireEvent.change(input, { target: { value: '++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.' }});
+    fireEvent.change(input, { target: { value: '++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.' } });
     const button = component.getByText('Translate ->');
     fireEvent.click(button);
     component.getByText('Hello World!');
@@ -43,7 +43,7 @@ test('brackets', () => {
 });
 
 test('dont go into negative', () => {
-   const component = render(<Brainfuck />);
+    const component = render(<Brainfuck />);
     const input = component.getByPlaceholderText('Insert brainfuck code here');
     fireEvent.change(input, { target: { value: '<' } });
     const button = component.getByText('Translate ->');

@@ -1,3 +1,5 @@
+/* eslint-disable react/no-array-index-key */
+/* eslint-disable jsx-a11y/no-static-element-interactions */
 import React, { useState } from 'react';
 import { ChromePicker } from 'react-color';
 import Pixel from './pixel';
@@ -8,10 +10,12 @@ export default () => {
         r: 0,
         g: 0,
         b: 0,
-        a: 0,
+        a: 1,
     });
 
-    const [pixelGrid, setPixelGrid] = useState(Array.from(Array(256)).fill(rgba));
+    const [pixelGrid, setPixelGrid] = useState(Array.from(Array(256)).fill({
+        r: 0, g: 0, b: 0, a: 0,
+    }));
     const [isPainting, setIsPainting] = useState(false);
 
     const changePixelColor = (index) => {
@@ -34,6 +38,7 @@ export default () => {
     const pixelArray = pixelGrid.map(
         (pixel, index) => (
             <Pixel
+                key={index}
                 color={`rgba(${pixel.r},${pixel.g},${pixel.b},${pixel.a})`}
                 index={index}
                 onHover={handleHover}
@@ -51,7 +56,6 @@ export default () => {
     };
 
     return (
-
         <div
             style={{ display: 'flex' }}
             data-testid="pixelart-page"
