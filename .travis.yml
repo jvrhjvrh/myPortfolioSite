@@ -12,6 +12,7 @@ before_install:
 
 script:
   - docker run -e CI=true jvrh/docker-teste npm run test
+  - npm build
     
 deploy:
   provider: pages
