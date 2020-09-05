@@ -8,7 +8,7 @@ services:
   - docker
 
 before_install:
-  - docker build -f Dockerfile.dev  -t jvrh/docker-teste .
+  - docker build -t jvrh/docker-teste .
 
 script:
   - docker run -e CI=true jvrh/docker-teste npm run test
