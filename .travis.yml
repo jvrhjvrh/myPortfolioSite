@@ -3,6 +3,8 @@ dist: xenial
 os: linux
 
 language: node_js
+node_js:
+  - 14
 
 services:
   - npm
