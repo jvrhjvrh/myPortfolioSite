@@ -6,13 +6,14 @@ language: generic
 
 services:
   - docker
+  - npm
 
 before_install:
   - docker build -t jvrh/docker-teste .
 
 script:
   - docker run -e CI=true jvrh/docker-teste npm run test
-  - npm build
+  - npm run build
     
 deploy:
   provider: pages
