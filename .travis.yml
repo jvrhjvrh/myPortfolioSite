@@ -2,17 +2,16 @@ dist: xenial
 
 os: linux
 
-language: generic
+language: node_js
 
 services:
-  - docker
   - npm
 
 before_install:
-  - docker build -t jvrh/docker-teste .
+  - npm install
 
 script:
-  - docker run -e CI=true jvrh/docker-teste npm run test
+  - CI=true jvrh/docker-teste npm run test
   - npm run build
     
 deploy:
