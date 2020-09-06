@@ -8,7 +8,6 @@ exports[`renders correctly 1`] = `
     class="unselectable"
     data-testid="pixelart-page"
     draggable="false"
-    style="display: flex;"
   >
     <div
       class="pixel-grid"

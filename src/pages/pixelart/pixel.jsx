@@ -3,6 +3,8 @@
 import React from 'react';
 import propTypes from 'proptypes';
 
+import './pixel.css';
+
 const Pixel = ({
     color,
     index,
@@ -14,10 +16,6 @@ const Pixel = ({
         data-testid={testid}
         style={{
             backgroundColor: color,
-            height: '100%',
-            width: '100%',
-            borderRight: '1px solid black',
-            borderBottom: '1px solid black',
         }}
         onMouseDown={() => onMouseDown(index)}
         onMouseOver={() => onHover(index)}

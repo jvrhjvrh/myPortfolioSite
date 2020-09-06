@@ -57,12 +57,11 @@ export default () => {
 
     return (
         <div
-            style={{ display: 'flex' }}
             data-testid="pixelart-page"
             onMouseUp={handleMouseUp}
             draggable={false}
             onDragStart={() => false}
-            className="unselectable"
+            className="pixelart-body"
         >
             <div className="pixel-grid">
                 {
