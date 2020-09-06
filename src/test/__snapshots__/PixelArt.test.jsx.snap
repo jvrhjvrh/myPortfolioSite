@@ -13,771 +13,1027 @@ exports[`renders correctly 1`] = `
       class="pixel-grid"
     >
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
       <div
+        class="pixel"
         style="background-color: rgba(0, 0, 0, 0);"
       />
     </div>
