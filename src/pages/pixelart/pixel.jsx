@@ -13,6 +13,7 @@ const Pixel = ({
     testid,
 }) => (
     <div
+        className="pixel"
         data-testid={testid}
         style={{
             backgroundColor: color,
